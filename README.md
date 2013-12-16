@@ -17,7 +17,7 @@
 
 <h2>Notes for usage</h2>
 <ul>
-<li>When passwords are saved to a client's machine it is saved in BASE64 encoding, this makes it undecodable to a glancing eye, however this is easy to interpret.</li>
+<li>When passwords are saved to a client's machine it is saved in BASE64 encoding, this makes it undecodable to a glancing eye, however this is easy to interpret by machine. Passwords are transmitted with plain text so SSL is reccomended. SSL Force is a config option.</li>
 </ul>
 
 <h2>License</h2>
