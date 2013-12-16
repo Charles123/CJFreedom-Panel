@@ -20,6 +20,11 @@
 <li>When passwords are saved to a client's machine it is saved in BASE64 encoding, this makes it undecodable to a glancing eye, however this is easy to interpret by machine. Passwords are transmitted with plain text so SSL is reccomended. SSL Force is a config option.</li>
 </ul>
 
+<h2>Known bugs</h2>
+<ul>
+<li>Memory usage shows as a negative number in some cases. E.G -4900. This shall be fixed very soon.</li>
+</ul>
+
 <h2>License</h2>
 <p>You can view the license in LICENSE.md - By using this software you agree to abide by this license.
 
