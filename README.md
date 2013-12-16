@@ -24,4 +24,4 @@
 <p>You can view the license in LICENSE.md - By using this software you agree to abide by this license.
 
 <h2>Contact me</h2>
-You can contact me at <a href="mailto:admin@thecjgcjg.com">admin@thecjgcjg.com</a>.
+You can contact me at <a href="mailto:charlesg.github@gmail.com ">charlesg.github@gmail.com </a>.
