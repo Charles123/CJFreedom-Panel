@@ -16,8 +16,6 @@ $result = mysql_query($query);
 $num    = mysql_numrows($result);
 mysql_close();
 ?>
-<html>
-<body>
 <a name="oldest" href="#recentevents">View Recent Events</a>
 <table class="table table-striped" >
 	<tr>
@@ -46,5 +44,3 @@ mysql_close();
 	?>
 </table>
 <a href="#oldest" name="recentevents">View oldest events</a>
-</body>
-</html>
